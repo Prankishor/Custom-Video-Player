@@ -1,5 +1,5 @@
 # Custom-Video-Player
-(Part of course)
+Practice project #3
 
 A customized video player with all the functionalities.
 
